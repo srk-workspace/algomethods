@@ -13,6 +13,8 @@ img {
     display: block;
     margin: 0 auto;
     margin-bottom: 20px;
+    max-width: 100%; /* Added to enable responsive resizing */
+    height: auto; /* Ensures the aspect ratio is maintained */
 }
 
 /* Styles for the heading */
