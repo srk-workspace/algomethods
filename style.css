@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+.content{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Rokkitt', serif;
+}
+}
+.headerBG{
+    min-height: 100vh;
+    width: 100%;
+    background: linear-gradient(180deg, #FFF 0%, #5DEAFF 51.04%);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+
+} 
+.AlgoMethods-Logo
+{
+    margin-top: 50px;
+}
+.sun{
+    position: absolute;
+    top: 0px;
+    left: 75px;
+}
+.cloud-right-top{
+    position: absolute;
+    top: -20px;    
+    left: 1300px;
+}
+.cloud-right-bottom{
+    position: absolute;
+    top: 150px;
+    left: 1100px;
+}
+.cloud-left{
+    position: absolute;
+    top: 110px;
+    left: 348px;
+}
+.crane{
+    position: absolute;
+    top: 290px;
+    left: 1350px;
+    opacity: 100;
+}
+.background-buildings{
+    position: absolute;
+    top: 230px;
+    left: 0px;
+}
+.background-waves{
+    position: absolute;
+    fill: linear-gradient(180deg, rgba(0, 0, 0, 0.21) 54.57%, rgba(0, 0, 0, 0.00) 100%);
+    top: 360px;
+    left: 0px;
+}
+.comingsoon-text{
+    position: absolute;
+    top: 366px;
+    left: 1230px;
+}
+.monitor{
+    position: absolute;
+    top: 442px;
+    left: 1230px;
+}
+.background-white-transparent{
+    fill: rgba(185, 246, 255, 0.85);
+    filter: drop-shadow(4px 4px 10.399999618530273px rgba(0, 0, 0, 0.20));
+    position: absolute;
+    top: 170px;
+    left: 60px;
+}
+.about-us-text{
+    position: absolute;
+    top: 60px;
+    left: 445px;
+    color: #566781;
+    font-family: Rokkitt;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    
+}
+.get-notified-text{
+    position: absolute;
+    top: 400px;
+    left: 370px;
+    color: #457B9D;
+    text-align: center;
+    font-family: Rokkitt;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.get-notified-email-input-field{
+    fill: #FFF;
+    stroke-width: 0.5px;
+    stroke: #000;
+    position: absolute;
+    top: 460px;
+    left: 251px;
+}
+.subscribe-button{
+    position: absolute;
+    top: 461px;
+    left: 653px;
+}
