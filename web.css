@@ -20,61 +20,61 @@
     margin-top: 50px;
 }
 .sun{
-    position: absolute;
+    /*position: absolute;*/
     top: 0px;
     left: 75px;
 }
 .cloud-right-top{
-    position: absolute;
+    /*position: absolute;*/
     top: -20px;    
     left: 1300px;
 }
 .cloud-right-bottom{
-    position: absolute;
+    /*position: absolute;*/
     top: 150px;
     left: 1100px;
 }
 .cloud-left{
-    position: absolute;
+    /*position: absolute;*/
     top: 110px;
     left: 348px;
 }
 .crane{
-    position: absolute;
+    /*position: absolute;*/
     top: 290px;
     left: 1350px;
     opacity: 100;
 }
 .background-buildings{
-    position: absolute;
+    /*position: absolute;*/
     top: 230px;
     left: 0px;
 }
 .background-waves{
-    position: absolute;
+    /*position: absolute;*/
     fill: linear-gradient(180deg, rgba(0, 0, 0, 0.21) 54.57%, rgba(0, 0, 0, 0.00) 100%);
     top: 360px;
     left: 0px;
 }
 .comingsoon-text{
-    position: absolute;
+    /*position: absolute;*/
     top: 366px;
     left: 1230px;
 }
 .monitor{
-    position: absolute;
+    /*position: absolute;*/
     top: 442px;
     left: 1230px;
 }
 .background-white-transparent{
     fill: rgba(185, 246, 255, 0.85);
     filter: drop-shadow(4px 4px 10.399999618530273px rgba(0, 0, 0, 0.20));
-    position: absolute;
+    /*position: absolute;*/
     top: 170px;
     left: 60px;
 }
 .about-us-text{
-    position: absolute;
+    /*position: absolute;*/
     top: 60px;
     left: 445px;
     color: #566781;
@@ -86,7 +86,7 @@
     
 }
 .get-notified-text{
-    position: absolute;
+    /*position: absolute;*/
     top: 400px;
     left: 370px;
     color: #457B9D;
@@ -101,12 +101,12 @@
     fill: #FFF;
     stroke-width: 0.5px;
     stroke: #000;
-    position: absolute;
+    /*position: absolute;*/
     top: 460px;
     left: 251px;
 }
 .subscribe-button{
-    position: absolute;
+    /*position: absolute;*/
     top: 461px;
     left: 653px;
 }
